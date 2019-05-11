@@ -4,7 +4,7 @@
 
 I spend a ton of time on exfiltration topics and mitigation techniques. This is my very first attempt to try to learn Go by having a quick way to convert a payload (reading a file) and building it as part as a custom x509 digital certificate.
 
-If you new to playing with certs, you will find the following interesting links that inspired me (must read first):
+If you are new to playing with certs, you will find below the following interesting links that inspired me (must read first):
 
 * https://medium.com/sitewards/the-magic-of-tls-x509-and-mutual-authentication-explained-b2162dec4401
 * https://venilnoronha.io/a-step-by-step-guide-to-mtls-in-go
